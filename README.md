@@ -47,4 +47,4 @@ Os testes serão executados automaticamente e o resultado será exibido no termi
 
 ---
 
-Projeto criado para fins educacionais durante aula de
+Projeto criado para fins educacionais durante aula de Engenharia de Software I
